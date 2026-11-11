@@ -1,0 +1,6 @@
+{
+  "name": "Portal e Autenticador Oficial — Medical English (Certificado Nº 03)",
+  "description": "Plataforma Interinstitucional do Curso Online de Língua Inglesa Instrumental (Medical English): Leitura e Tradução de Artigos Científicos em Saúde, com Certificado Oficial Nº 03 (2 Laudas A4 Paisagem Editável/PDF), Sistema de Verificação Pública via QR Code e Gerador GitHub/Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
